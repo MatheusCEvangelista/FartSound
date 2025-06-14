@@ -1,19 +1,25 @@
-# FartSounds
+# Fart Sounds - App Flutter 💨
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Um aplicativo simples e divertido que reproduz sons de peido.
 
-## Getting Started
+## 🚀 Como executar
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+flutter run -d chrome
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+🔧 Tecnologias
+Flutter
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Audioplayers
 
-## Getting Started: FlutLab - Flutter Online IDE
+QrCode Para download
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![download](https://github.com/user-attachments/assets/cd80849d-54d4-45ac-9c6c-83fdfdca6159)
+
+Link para visualização: https://flutlab.io/editor/ff24da18-d1de-4ce8-81cf-71bd23d738a7
+
+Video da utilização!
+https://youtu.be/tMJuer3PMCM
+
+
