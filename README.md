@@ -15,7 +15,7 @@ Audioplayers
 
 QrCode Para download
 
-[![download (1)](https://github.com/user-attachments/assets/df86fabf-9f0e-4565-8798-824365d2ffc8)](https://github.com/MatheusCEvangelista/FartSound/blob/master/download%20(1).png)
+![download(1)](https://github.com/MatheusCEvangelista/FartSound/blob/master/download%20(1).png)
 
 
 Link para visualização: (https://preview.flutlab.io/pincher/fartsounds/)
